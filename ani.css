@@ -5,14 +5,12 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #ff6600;
+    background-color: #ff6602;
     
 }
-
 .container {
     display: flex;
     gap: 5px;
-    /* Space between bars */
 }
 
 .loading-bar {
